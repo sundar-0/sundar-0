@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sundar Dumre
 - 👀 I’m interested in web development,software development,machine learning
 - 🌱 I’m currently learning flutter,node.js
-- 💞️ I’m looking to collaborate on flutter intern
 - 📫 How to reach me ...
 
 <!---
